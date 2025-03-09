@@ -1,6 +1,3 @@
-theme:🚙
-
-
-title: Welcome to my blog
-
-
+-----
+layout:post
+title:blog
